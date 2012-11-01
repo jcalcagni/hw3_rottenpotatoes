@@ -37,11 +37,10 @@ Scenario: no ratings selected
   # see assignment
   Given I uncheck the following ratings: NC-17, PG-13, G, PG, R
   When I press "Refresh"
-  Then I should see no movies
+  Then I should see none of the movies
 
 Scenario: all ratings selected
   # see assignment
   Given I check the following ratings: NC-17, PG-13, G, PG, R
   When I press "Refresh"
   Then I should see all movies
-  
