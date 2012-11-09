@@ -1,3 +1,21 @@
+
+This is a Rails application I used to complete Homework #3 for an Edx.org course : 
+CS196.1x, Software as a Service using Ruby on Rails.
+
+The original application was given to students and then we created Cucumber scenarios to test and utilize BDD.
+Each student had to write the features (filter_move_list and sort_movie_list) and the movie_steps.rb defintion file
+
+for HW2 (previous assignment) each student had to create the functionality to sort & filter the movies.
+
+I kept the default (generated) readme file below
+
+
+
+
+
+
+======================================================================================================================
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
